@@ -1,7 +1,7 @@
 # PW1-with-a-menu
 It's simply a C program with a menu where you could scroll between all the exercises of the PW1 series
 
-https://github.com/ilyesPR/PW1-with-a-menu yt link of the software in use for anyone that can't try it!
+https://www.youtube.com/watch?v=r0Rwjs-EqxU yt link of the software in use for anyone that can't try it!
 
 ![image](https://github.com/user-attachments/assets/baadb4b7-db5c-4c25-ad85-79af8e053f68)
 
